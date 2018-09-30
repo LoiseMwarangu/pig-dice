@@ -1,25 +1,65 @@
 .player{
 background-color: deeppink;
 padding:10px;
-border:2px solid red
+border:2px solid red;
 margin:10px;
 font-size:20px;
 width: 40px;
 text-align:center;
 }
+img{
+  float:right;
+  width: 400px;
+}
+h6{
+font-size: 40px;
+font-style: italic;
+}
+p{
+font-size: 20px;
+font-weight: bold;
+}
+h1{
+font-size: 80px;
+font-weight: bolder;
+}
+.name{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: deeppink;
+  background-color: #ffccff;
+}
 button{
-text-align: center;
-float:left;
+  background-color: #ffff66;
+  padding:5px;
+  border:1px solid red;
+  margin:5px;
+  font-size:10px;
+  text-align: center;
+  float:left;
+  font-size:15px;
 }
 html{
-background-image: url("https://metrouk2.files.wordpress.com/2014/09/peppa.jpg?quality=80&strip=all&zoom=1&resize=644%2C402");
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtRvIiZ3QA_csctOqCMve3jVS0iu4GA49L18KRcnxFFGZUK7EnQ");
 }
 body{
-background-image:url("https://metrouk2.files.wordpress.com/2014/09/peppa.jpg?quality=80&strip=all&zoom=1&resize=644%2C402");
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtRvIiZ3QA_csctOqCMve3jVS0iu4GA49L18KRcnxFFGZUK7EnQ");
+padding:5px;
+border:4px solid deeppink;
+margin:20px;
+
 }
 .col-md-4{
-background-color: pink;
+background-color: #ffccff;
 }
-.buttons{
+button{
 text-align: center;
+color: deeppink;
+}
+a{
+float: right;
+}
+h2{
+color: deeppink;
 }
