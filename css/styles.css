@@ -1,0 +1,25 @@
+.player{
+background-color: deeppink;
+padding:10px;
+border:2px solid red
+margin:10px;
+font-size:20px;
+width: 40px;
+text-align:center;
+}
+button{
+text-align: center;
+float:left;
+}
+html{
+background-image: url("https://metrouk2.files.wordpress.com/2014/09/peppa.jpg?quality=80&strip=all&zoom=1&resize=644%2C402");
+}
+body{
+background-image:url("https://metrouk2.files.wordpress.com/2014/09/peppa.jpg?quality=80&strip=all&zoom=1&resize=644%2C402");
+}
+.col-md-4{
+background-color: pink;
+}
+.buttons{
+text-align: center;
+}
